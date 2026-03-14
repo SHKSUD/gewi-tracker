@@ -15,10 +15,6 @@
     {
       "path": "/api/alert",
       "schedule": "0 7 * * *"
-    },
-    {
-      "path": "/api/alert",
-      "schedule": "0 */2 * * *"
     }
   ]
 }
